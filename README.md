@@ -1,4 +1,4 @@
-# Assign2
+# Assignment2
 <h1>Oprating System</h1>
 Write a java program to simulate the following schedulers:
 1. preemptive Shortest- Job First (SJF) Scheduling with context switching
